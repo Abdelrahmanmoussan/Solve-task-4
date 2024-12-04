@@ -1,0 +1,28 @@
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).exe
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).deps.json
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).runtimeconfig.json
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).dll
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).pdb
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).GeneratedMSBuildEditorConfig.editorconfig
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).AssemblyInfoInputs.cache
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).AssemblyInfo.cs
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).csproj.CoreCompileInputs.cache
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).dll
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\refint\Solve task 4 (27-11-24).dll
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).pdb
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).genruntimeconfig.cache
+D:\1-12-24\Solve Challenges\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\ref\Solve task 4 (27-11-24).dll
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).exe
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).deps.json
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).runtimeconfig.json
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).dll
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\bin\Debug\net9.0\Solve task 4 (27-11-24).pdb
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).GeneratedMSBuildEditorConfig.editorconfig
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).AssemblyInfoInputs.cache
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).AssemblyInfo.cs
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).csproj.CoreCompileInputs.cache
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).dll
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\refint\Solve task 4 (27-11-24).dll
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).pdb
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\Solve task 4 (27-11-24).genruntimeconfig.cache
+D:\Solve Tasks\Solve Task 4 (27-11-24)\Solve task 4 (27-11-24)\Solve task 4 (27-11-24)\obj\Debug\net9.0\ref\Solve task 4 (27-11-24).dll

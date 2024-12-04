@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Solve task 4 (27-11-24)/1.0.0": {
+        "runtime": {
+          "Solve task 4 (27-11-24).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solve task 4 (27-11-24)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
